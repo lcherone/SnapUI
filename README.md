@@ -1,6 +1,6 @@
 # Snappi
 
-<img src="http://i.imgur.com/kWuIxtl.png" alt="Snappi screen" title="Snappi" align="right" width="500" />
+<img src="http://i.imgur.com/kWuIxtl.png" alt="Snappi screen" title="Snappi" align="right" width="450" />
 
 A Snap "Software Centre" style desktop UI for snap packages.
 
@@ -9,6 +9,8 @@ A Snap "Software Centre" style desktop UI for snap packages.
  - Search, Install and manage your snaps in a desktop UI.
  
  Still a WIP, so more features and bug fixes to come.
+ 
+
 
 #### Downloads
 
