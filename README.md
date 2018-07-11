@@ -2,16 +2,15 @@
 
 A Snap "Software Centre" style desktop UI for snap packages.
 
-<img src="http://i.imgur.com/PQoobPb.png" alt="Snappi screen" align="left" title="Snappi" width="420" />
-<img src="http://i.imgur.com/kWuIxtl.png" alt="Snappi screen" align="left" title="Snappi" width="420" />
-
 ## Features
 
  - Search, Install and manage your snaps in a desktop UI.
  
  Still a WIP, so more features and bug fixes to come.
 
-
+### Screens
+<img src="http://i.imgur.com/kWuIxtl.png" alt="Snappi screen" />
+<img src="http://i.imgur.com/PQoobPb.png" alt="Snappi screen" />
 
 ## Downloads
 
@@ -37,7 +36,6 @@ It maybe in the future, but from my initial experiance its not been easy to publ
  - Initial upload failed, because using classic mode (pending review).
  
  Will post here on any updates.
-
 
 ### Build Setup
 
