@@ -2,8 +2,8 @@
 
 A Snap "Software Centre" style desktop UI for snap packages.
 
-<img src="http://i.imgur.com/PQoobPb.png" alt="Snappi screen" title="Snappi" width="420" />
-<img src="http://i.imgur.com/kWuIxtl.png" alt="Snappi screen" title="Snappi" width="420" />
+<img src="http://i.imgur.com/PQoobPb.png" alt="Snappi screen" align="left" title="Snappi" width="420" />
+<img src="http://i.imgur.com/kWuIxtl.png" alt="Snappi screen" align="left" title="Snappi" width="420" />
 
 ## Features
 
