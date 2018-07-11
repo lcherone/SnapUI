@@ -1,6 +1,6 @@
 # Snappi
 
-<img src="http://i.imgur.com/1zuclr5.png" alt="LXDui screen" title="LXDui" align="right" />
+<img src="http://i.imgur.com/kWuIxtl.png" alt="Snappi screen" title="Snappi" align="right" width="300" />
 
 A Snap "Software Centre" style desktop UI for snap packages.
 
