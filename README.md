@@ -12,7 +12,7 @@ A Snap "Software Centre" style desktop UI for snap packages.
  
 
 
-#### Downloads
+## Downloads
 
 | File | Description | Platform | Format |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ It maybe in the future, but from my initial experiance its not been easy to publ
  Will post here on any updates.
 
 
-#### Build Setup
+### Build Setup
 
 ``` bash
 # download source
@@ -53,7 +53,7 @@ npm run build
 
 ```
 
-#### Developer Setup
+### Developer Setup
 
 ``` bash
 # download source
