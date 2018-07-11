@@ -41,7 +41,7 @@ It maybe in the future, but from my initial experiance its not been easy to publ
 
 ``` bash
 # download source
-git clone git@github.com:lcherone/Snappi.git && cd lxd-ui
+git clone git@github.com:lcherone/Snappi.git && cd snappi
 
 # install dependencies
 npm install
@@ -54,7 +54,7 @@ npm run build
 
 ``` bash
 # download source
-git clone git@github.com:lcherone/Snappi.git && cd lxd-ui
+git clone git@github.com:lcherone/Snappi.git && cd snappi
 
 # install dependencies
 npm install
